@@ -629,7 +629,8 @@ Table 4.26: Truth table for a Force Gate
   </tr>
 </table>
 
->When Enable is HIGH, the output is forced HIGH regardless of the input value.
+>- When Enable is HIGH, the output is forced HIGH regardless of the input value.
+>- When Enable is LOW, the output is forced LOW regardless of the input value.
 
 <iframe
   width="600px"
