@@ -579,7 +579,7 @@ The **Force Gate** is a logical circuit element used to override and control bin
 
 Unlike standard logic gates, the Force Gate does not compute outputs based on logical operations. Instead, it directly applies a user-defined value to the connected input. 
 
->Properties that can be customized in the **PROPERTIES** panel include: **Direction, BitWidth**
+>Properties that can be customized in the **PROPERTIES** panel include: **Direction, BitWidth, Delay, Label**
 
 ![drawing](/img/img_chapter4/4.25.png)
 
